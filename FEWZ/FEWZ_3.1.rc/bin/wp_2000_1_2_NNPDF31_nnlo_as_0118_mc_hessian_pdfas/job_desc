@@ -1,0 +1,14 @@
+Executable = condor_fewzw
+Environment = CUBACORES=0
+Universe = standard
+Requirements = Memory >= 128 && Disk >= 5000
+Rank = kflops
+Getenv = True
+Notification = Error
+Output = condor_output.out
+Log = condor_log.log
+Error = condor_error.err
+
+Arguments = -i ../input.txt -h ../histograms.txt -o output.txt -p ../../. -s $(Process)
+Initialdir = wp_2000_1_2_NNPDF31_nnlo_as_0118_mc_hessian_pdfas$(Process)
+Queue 154

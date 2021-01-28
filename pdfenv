@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export LHAPDFPATH=/home/taebh/2021_Research
+
+export PATH=$LHAPDFPATH/bin:$PATH
+export PYTHONPATH=$LHAPDFPATH/lib/python2.7/site-packages:$PYTHONPATH
+export LD_LIBRARY_PATH=$LHAPDFPATH/lib/libLHAPDF.so:$LD_LIBRARY_PATH
+

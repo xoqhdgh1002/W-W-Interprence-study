@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export FEWZ_PATH=/home/taebh/2021_Research/FEWZ/FEWZ_3.1.rc
+export PYTHONPATH=${FEWZ_PATH}:${PYTHONPATH}

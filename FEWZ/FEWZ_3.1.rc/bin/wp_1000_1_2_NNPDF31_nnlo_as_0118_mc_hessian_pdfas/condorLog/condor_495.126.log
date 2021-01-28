@@ -1,0 +1,575 @@
+/var/lib/condor/execute/dir_1363
+LHAPDF 6.3.0 loading /home/taebh/2021_Research/share/LHAPDF/NNPDF31_nnlo_as_0118_mc_hessian_pdfas/NNPDF31_nnlo_as_0118_mc_hessian_pdfas_0000.dat
+NNPDF31_nnlo_as_0118_mc_hessian_pdfas PDF set, member #0, version 1
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 238
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Iteration 1:  1000000 integrand evaluations so far
+[1] -0.000387326 +- 2.43255e-05  	chisq 0 (0 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 365
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 2:  2500000 integrand evaluations so far
+[1] -0.000370537 +- 7.41389e-06  	chisq 0.525141 (1 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 492
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 3:  4500000 integrand evaluations so far
+[1] -0.000367757 +- 2.29844e-06  	chisq 0.680653 (2 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 619
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 4:  7000000 integrand evaluations so far
+[1] -0.000367014 +- 1.01458e-06  	chisq 0.810668 (3 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 746
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 5:  10000000 integrand evaluations so far
+[1] -0.00036563 +- 6.10858e-07  	chisq 3.72748 (4 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 873
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 6:  13500000 integrand evaluations so far
+[1] -0.000365751 +- 4.32365e-07  	chisq 3.80574 (5 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1000
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 7:  17500000 integrand evaluations so far
+[1] -0.000365937 +- 3.34634e-07  	chisq 4.26858 (6 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1127
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 8:  22000000 integrand evaluations so far
+[1] -0.000366228 +- 2.74739e-07  	chisq 6.58692 (7 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1254
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 9:  27000000 integrand evaluations so far
+[1] -0.000366155 +- 2.34421e-07  	chisq 6.84373 (8 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1381
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 10:  32500000 integrand evaluations so far
+[1] -0.000366195 +- 2.05589e-07  	chisq 6.96704 (9 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1508
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 11:  38500000 integrand evaluations so far
+[1] -0.000366114 +- 1.83611e-07  	chisq 7.73308 (10 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1635
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 12:  45000000 integrand evaluations so far
+[1] -0.000366201 +- 1.66208e-07  	chisq 8.97514 (11 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1762
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 13:  52000000 integrand evaluations so far
+[1] -0.000366162 +- 1.52084e-07  	chisq 9.31001 (12 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 1889
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 14:  59500000 integrand evaluations so far
+[1] -0.000366232 +- 1.40284e-07  	chisq 10.725 (13 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2016
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 15:  67500000 integrand evaluations so far
+[1] -0.000366284 +- 1.30289e-07  	chisq 11.7391 (14 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2143
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 16:  76000000 integrand evaluations so far
+[1] -0.000366268 +- 1.21729e-07  	chisq 11.8666 (15 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2270
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 17:  85000000 integrand evaluations so far
+[1] -0.000366312 +- 1.14284e-07  	chisq 12.9585 (16 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2397
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 18:  94500000 integrand evaluations so far
+[1] -0.000366269 +- 1.07728e-07  	chisq 14.216 (17 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2524
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 19:  104500000 integrand evaluations so far
+[1] -0.000366224 +- 1.01922e-07  	chisq 15.9059 (18 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2651
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 20:  115000000 integrand evaluations so far
+[1] -0.000366251 +- 9.67286e-08  	chisq 16.6148 (19 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2778
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 21:  126000000 integrand evaluations so far
+[1] -0.000366266 +- 9.2059e-08  	chisq 16.8982 (20 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 2905
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 22:  137500000 integrand evaluations so far
+[1] -0.000366255 +- 8.78262e-08  	chisq 17.0637 (21 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 3032
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 23:  149500000 integrand evaluations so far
+[1] -0.000366254 +- 8.40156e-08  	chisq 17.0649 (22 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 3159
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 24:  162000000 integrand evaluations so far
+[1] -0.000366207 +- 8.05141e-08  	chisq 20.9187 (23 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 3286
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 25:  175000000 integrand evaluations so far
+[1] -0.000366209 +- 7.72828e-08  	chisq 20.9267 (24 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 3413
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 26:  188500000 integrand evaluations so far
+[1] -0.00036622 +- 7.42985e-08  	chisq 21.1672 (25 df)
+
+Saving state to vegas_last_iter127.
+Vegas input parameters:
+  ndim 11
+  ncomp 1
+  epsrel 0
+  epsabs 0
+  flags 291
+  seed 3540
+  mineval 1
+  maxeval 1
+  nstart 1000000
+  nincrease 500000
+  nbatch 1000
+  gridno 1
+  statefile "vegas_last_iter127"
+
+Restoring state from vegas_last_iter127.
+
+Iteration 27:  202500000 integrand evaluations so far
+[1] -0.000366238 +- 7.1542e-08  	chisq 22.05 (26 df)
+
+Saving state to vegas_last_iter127.
+Thanks for using LHAPDF 6.3.0. Please make sure to cite the paper:
+  Eur.Phys.J. C75 (2015) 3, 132  (http://arxiv.org/abs/1412.7420)
+ method   =Vegas  
+ nregions =           1
+ neval    =   202500000
+ fail     =           1
+ -0.366238485242E-03 +-   0.715419520270E-07   p =    0.265
